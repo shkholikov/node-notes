@@ -1,0 +1,8 @@
+{
+	"books": [
+		{ "id": 1, "title": "Fuck yourself!", "description": "How to fuck yourself?" },
+		{ "id": 2, "title": "Move yourself!", "description": "How to Move yourself?" },
+		{ "id": 3, "title": "Beat yourself!", "description": "it's reassigned description" },
+		{ "id": 4, "title": "It's reassigned title", "description": "How to Snap yourself?" }
+	]
+}
